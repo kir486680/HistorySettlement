@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Kevin's Kwiz!</title>
+<link href ="style.css" rel ="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+<script src = "main.js"></script>
+
+</head>
+
+
+<body>
+<h1>History Quiz</h1>
+
+
+<form id = "quiz" name = "quiz">
+
+
+
+
+<p class = "questions">When New Hampshire was established?</p>
+<input type = "radio" id = "mc" name = "question2" value = "1620"> 1620<br>
+<input type = "radio" id = "mc" name = "question2" value = "1630"> 1630<br>
+
+<p class = "questions">What is the major city of New Hampshire?</p>
+
+<input type = "radio" id = "mc" name = "question3" value = "Concord"> Concord<br>
+<input type = "radio" id = "mc" name = "question3" value = "Portsmouth"> Portsmouth<br>
+
+<p class = "questions">What was the population of New Hampshire in  1640?</p>
+<input id = "textbox" type = "text" name = "question1">
+
+<input id = "button" type = "button" value = "I'm finished!" onclick = "check();">
+
+
+</form>
+
+<div id = "after_submit">
+<p id = "number_correct"></p>
+<p id = "message"></p>
+<img id = "picture">
+</div>
+</html>
+
+</body>
+
+
+
