@@ -1,2 +1,2 @@
-# site
-my site
+# History Settlement Website
+This website is dedicated to the in depth understanding of the mid-17th century colonies of New Hampshire and New France. Throughout the webpage, you will find some general information on the two colonies, aswell as an interactive quiz with results. Might you need any more information, we provide links to exterior webpages, which talk more in depth about the subject. Finally, you will find a video, which also speaks about the topic presented here.
